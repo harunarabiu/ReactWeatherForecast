@@ -9,6 +9,7 @@ class App extends Component {
     return (
      <Container> 
        <Search />
+       <br />
        <WeatherList />
      </Container>
     );
